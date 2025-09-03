@@ -39,7 +39,3 @@
 2. **Install Dependencies**
 
 3. **Run the notebook(s)**
-3. **Run the notebook**
-    ```bash
-    jupyter notebook code.ipynb
-    ```
